@@ -33,6 +33,6 @@ Cuenta con múltiples secciones informativas. Incluye una interfaz pública para
 
 ## 🚧 Estado del proyecto
 
-✔️ Versión inicial / simplificada completa
-🔜 Mejora de responsividad para tablet y escritorio
+✔️ Versión inicial / simplificada completa  
+🔜 Mejora de responsividad para tablet y escritorio  
 🔜 Posible futura integración de JavaScript
